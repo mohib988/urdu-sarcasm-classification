@@ -1,4 +1,4 @@
-# Urdu Sarcasm Detection — DS5007 PA1
+# Urdu Sarcasm Detection 
 
 Binary classifier for Urdu social-media posts: sarcastic (1) vs non-sarcastic (0).
 Notebook: `urdu_sarcasm_pipeline_v4.ipynb`
